@@ -57,7 +57,7 @@ Here's what you need to be able to run Papermark:
 - PostgreSQL Database
 - Blob storage (currently [AWS S3](https://aws.amazon.com/s3/) or [Vercel Blob](https://vercel.com/storage/blob))
 - [Resend](https://resend.com) (for sending emails)
-
+🔥
 ### 1. Clone the repository
 
 ```shell
